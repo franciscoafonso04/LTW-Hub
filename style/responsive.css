@@ -1,0 +1,62 @@
+@media (max-width: 768px) {
+    main {
+        width: 95%;
+    }
+
+    .footer-container {
+        flex-direction: column;
+        text-align: center;
+    }  
+
+    body {
+        font-size: 14px;
+    }
+
+    .form-box {
+        width: 98%;
+    }
+
+    .header-content {
+        flex-direction: column;
+    }
+
+    .flex-row {
+        flex-direction: row;
+    }
+
+    .product-image #image-container {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .product-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }  
+
+    .product-details {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    #message-page {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 20px;
+    }
+
+    #sidebar, #message, #filters, #listings {
+        width: 100%;
+    }
+
+    #search {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .buttons{
+        justify-content: center;
+    }
+
+}
