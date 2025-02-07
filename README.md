@@ -1,6 +1,6 @@
-# LTW-Hub
+# LTW-Vault
 
-Welcome to the **LTW-Hub**, a repository containing my project for the **Web Languages and Technologies (Linguagens e Tecnologias Web)** course. Here, you'll find information about Revamp, a website that facilitates the buying and selling of pre-loved technology items and that provides a seamless experience for users to easily list, browse, and transact, offering robust search and filter capabilities, detailed item descriptions, and user feedback systems.
+Welcome to the **LTW-Vault**, a repository containing my project for the **Web Languages and Technologies (Linguagens e Tecnologias Web)** course. Here, you'll find information about Revamp, a website that facilitates the buying and selling of pre-loved technology items and that provides a seamless experience for users to easily list, browse, and transact, offering robust search and filter capabilities, detailed item descriptions, and user feedback systems.
 
 ## **Project - Revamp (Grade: 16.8)**
 
